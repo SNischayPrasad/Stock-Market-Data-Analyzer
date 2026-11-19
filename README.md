@@ -111,6 +111,17 @@ streamlit run dashboard.py
 Full report: [`reports/AAPL_report.md`](reports/AAPL_report.md)
 
 ## 🖼 Screenshots
+### Interactive dashboard (Streamlit)
+![Dashboard](images/screenshots/09_dashboard.png)
+
+### Terminal output
+<img src="images/screenshots/03_terminal_output.png" width="700" alt="Terminal output">
+
+| Project structure | Dataset preview |
+|---|---|
+| <img src="images/screenshots/01_folder_structure.png" width="350"> | ![Dataset](images/screenshots/02_dataset_preview.png) |
+
+### Charts
 | Closing price | Moving averages & signals |
 |---|---|
 | ![Closing price](images/AAPL_closing_price.png) | ![Moving averages](images/AAPL_moving_averages.png) |
@@ -150,6 +161,7 @@ Full report: [`reports/AAPL_report.md`](reports/AAPL_report.md)
 ## 📚 Documentation
 - [`docs/PROJECT_GUIDE.md`](docs/PROJECT_GUIDE.md) – full explanation, architecture, phase plan, simulation, GitHub steps, proof plan
 - [`docs/INTERVIEW_PREP.md`](docs/INTERVIEW_PREP.md) – interview questions with answers
+- [`docs/SOCIAL_POSTS.md`](docs/SOCIAL_POSTS.md) – LinkedIn & Instagram posts (slides in `images/social/`)
 
 ## ⚠️ Disclaimer
 This project is created **for educational and learning purposes only**. It is **not financial, investment or trading advice**. Stock market investments are subject to market risk; past performance does not guarantee future results. Always consult a SEBI-registered / licensed financial advisor before investing. The bundled `sample_stock_data.csv` is **synthetic** data and does not represent any real company.
