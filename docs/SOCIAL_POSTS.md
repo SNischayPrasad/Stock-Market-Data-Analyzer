@@ -1,6 +1,6 @@
 # Social Media Posts
 
-Replace `<REPO_LINK>` with your GitHub repo URL before posting.
+Repo: https://github.com/SNischayPrasad/Stock-Market-Data-Analyzer
 
 ---
 
@@ -37,7 +37,7 @@ Give it a ticker (AAPL, TCS.NS, MSFT…) and a date range, and it:
 
 🛠 Tech: Python · pandas · NumPy · Matplotlib · Seaborn · yfinance · Plotly · Streamlit
 
-🔗 Code, docs and screenshots: <REPO_LINK>
+🔗 Code, docs and screenshots: https://github.com/SNischayPrasad/Stock-Market-Data-Analyzer
 
 Next up: RSI/MACD indicators, benchmarking against NIFTY 50 / S&P 500, and backtesting the crossover strategy.
 
@@ -59,7 +59,7 @@ Apple 2023–24: +101.6% return, 21.4% volatility, Sharpe 1.57.
 Biggest lesson: return without risk is half the story.
 
 Python · pandas · NumPy · Matplotlib · yfinance · Streamlit
-🔗 <REPO_LINK>
+🔗 https://github.com/SNischayPrasad/Stock-Market-Data-Analyzer
 
 Educational project, not financial advice.
 #Python #DataAnalysis #FinTech #StockMarket #StudentProject

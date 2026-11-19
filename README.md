@@ -67,7 +67,7 @@ Ticker + dates ─► Collect data ─► Clean ─► Returns ─► Moving ave
 ## 🚀 How to Run
 ```bash
 # 1. Clone and enter the project
-git clone https://github.com/<your-username>/Stock-Market-Data-Analyzer.git
+git clone https://github.com/SNischayPrasad/Stock-Market-Data-Analyzer.git
 cd Stock-Market-Data-Analyzer
 
 # 2. Create & activate a virtual environment
@@ -167,4 +167,4 @@ Full report: [`reports/AAPL_report.md`](reports/AAPL_report.md)
 This project is created **for educational and learning purposes only**. It is **not financial, investment or trading advice**. Stock market investments are subject to market risk; past performance does not guarantee future results. Always consult a SEBI-registered / licensed financial advisor before investing. The bundled `sample_stock_data.csv` is **synthetic** data and does not represent any real company.
 
 ## 👤 Author
-**Your Name** · [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Your Name** · [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/SNischayPrasad)
